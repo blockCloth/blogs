@@ -27,7 +27,7 @@
 </script>
 ```
 
-
+![image-20240216113536210](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20240216113536210.png)
 
 ### Vue模板语法
 
@@ -100,6 +100,8 @@ Vue中有两种数据绑定的方式：
 ```
 
 ### Data与el的2种写法
+
+https://images.pexels.com/photos/1032650/pexels-photo-1032650.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
 
 1. el有2种写法
    1. new Vue时候配置el属性。
